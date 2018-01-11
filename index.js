@@ -26,3 +26,8 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction
 var theFunk = "FUNKY!"
+
+function add2(n) {
+  var two = 2 
+  return (n+two)
+}
